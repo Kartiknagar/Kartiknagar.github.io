@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Kartik Nagar</title>
+    <link>https://kartiknagar.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Kartik Nagar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kartiknagar.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refining Cache Behavior Prediction Using Cache Miss Paths</title>
+      <link>https://kartiknagar.github.io/publication/tecs17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartiknagar.github.io/publication/tecs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Precise Worst-Case Interference Placement for Shared Cache Analysis</title>
+      <link>https://kartiknagar.github.io/publication/tecs16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartiknagar.github.io/publication/tecs16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
