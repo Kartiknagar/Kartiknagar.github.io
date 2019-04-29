@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kartiknagar.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Parametrized Verification of CRDTs</title>
+      <link>https://kartiknagar.github.io/publication/cav19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartiknagar.github.io/publication/cav19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Detection of Serializability Violations under Weak Consistency</title>
