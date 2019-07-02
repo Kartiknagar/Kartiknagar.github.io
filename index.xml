@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CLOTHO: Directed Test Generation for Weakly Consistent Database Systems</title>
+      <link>https://kartiknagar.github.io/publication/oopsla19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartiknagar.github.io/publication/oopsla19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated Parametrized Verification of CRDTs</title>
       <link>https://kartiknagar.github.io/publication/cav19/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
