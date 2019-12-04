@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y N Srikant | Kartik Nagar</title>
+    <link>/authors/y-n-srikant/</link>
+      <atom:link href="/authors/y-n-srikant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y N Srikant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Y N Srikant</title>
+      <link>/authors/y-n-srikant/</link>
+    </image>
+    
+    <item>
+      <title>Refining Cache Behaviour Prediction using Cache Miss Paths</title>
+      <link>/publication/tecs17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tecs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Precise Worst Case Interference Placement for Shared Cache Analysis</title>
+      <link>/publication/tecs16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tecs16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-sensitive Cache Analysis using Cache Miss Paths</title>
+      <link>/publication/vmcai15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/vmcai15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Shared Cache Analysis using Optimal Interference Placement</title>
+      <link>/publication/rtas14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rtas14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdependent Cache Analyses for better precision and safety</title>
+      <link>/publication/memocode-12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/memocode-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
