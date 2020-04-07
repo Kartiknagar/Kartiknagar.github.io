@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Replicated-Systems | Kartik Nagar</title>
-    <link>/tags/replicated-systems/</link>
-      <atom:link href="/tags/replicated-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>Replicated-Systems</description>
+    <title>Prasita Mukherjee | Kartik Nagar</title>
+    <link>/authors/prasita-mukherjee/</link>
+      <atom:link href="/authors/prasita-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prasita Mukherjee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Replicated-Systems</title>
-      <link>/tags/replicated-systems/</link>
+      <title>Prasita Mukherjee</title>
+      <link>/authors/prasita-mukherjee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/cav20/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/cav20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Parametrized Verification of CRDTs</title>
-      <link>/publication/cav19/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cav19/</guid>
       <description></description>
     </item>
     

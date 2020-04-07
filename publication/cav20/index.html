@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Maintaining multiple replicas of data is crucial to achieving scalability, availability and low latency in distributed applications. Conflict-free Replicated Data Types (CRDTs) are important building blocks in this domain because they are designed to operate correctly under the myriad behaviors possible in a weakly-consistent distributed setting. Because of the possibility of concurrent updates to the same object at different replicas, and the absence of any ordering guarantees on these updates, convergence is an important correctness criterion for CRDTs. This property asserts that two replicas which receive the same set of updates (in any order) must nonetheless converge to the same state. One way to prove that operations on a CRDT converge is to show that they commute since commutative actions by definition behave the same regardless of the order in which they execute. In this paper, we present a framework for automatically verifying convergence of CRDTs under different weak-consistency policies. Surprisingly, depending upon the consistency policy supported by the underlying system, we show that not all operations of a CRDT need to commute to achieve convergence. We develop a proof rule parameterized by a consistency specification based on the concepts of commutativity modulo consistency policy and non-interference to commutativity. We describe the design and implementation of a verification engine equipped with this rule and show how it can be used to provide the first automated convergence proofs for a number of challenging CRDTs, including sets, lists, and graphs.">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/cav19/">
+  <link rel="alternate" hreflang="en-us" href="/publication/cav20/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/cav19/">
+  <link rel="canonical" href="/publication/cav20/">
 
   
   
@@ -114,15 +114,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Kartik Nagar">
-  <meta property="og:url" content="/publication/cav19/">
-  <meta property="og:title" content="Automated Parametrized Verification of CRDTs | Kartik Nagar">
-  <meta property="og:description" content="Maintaining multiple replicas of data is crucial to achieving scalability, availability and low latency in distributed applications. Conflict-free Replicated Data Types (CRDTs) are important building blocks in this domain because they are designed to operate correctly under the myriad behaviors possible in a weakly-consistent distributed setting. Because of the possibility of concurrent updates to the same object at different replicas, and the absence of any ordering guarantees on these updates, convergence is an important correctness criterion for CRDTs. This property asserts that two replicas which receive the same set of updates (in any order) must nonetheless converge to the same state. One way to prove that operations on a CRDT converge is to show that they commute since commutative actions by definition behave the same regardless of the order in which they execute. In this paper, we present a framework for automatically verifying convergence of CRDTs under different weak-consistency policies. Surprisingly, depending upon the consistency policy supported by the underlying system, we show that not all operations of a CRDT need to commute to achieve convergence. We develop a proof rule parameterized by a consistency specification based on the concepts of commutativity modulo consistency policy and non-interference to commutativity. We describe the design and implementation of a verification engine equipped with this rule and show how it can be used to provide the first automated convergence proofs for a number of challenging CRDTs, including sets, lists, and graphs."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/cav20/">
+  <meta property="og:title" content="Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems | Kartik Nagar">
+  <meta property="og:description" content=""><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-10-04T18:47:18-04:00">
+      <meta property="article:published_time" content="2020-04-07T15:26:22&#43;05:30">
     
-    <meta property="article:modified_time" content="2019-07-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-04-07T00:00:00&#43;00:00">
   
 
   
@@ -146,12 +146,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/cav19/"
+    "@id": "/publication/cav20/"
   },
-  "headline": "Automated Parametrized Verification of CRDTs",
+  "headline": "Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems",
   
-  "datePublished": "2019-10-04T18:47:18-04:00",
-  "dateModified": "2019-07-01T00:00:00Z",
+  "datePublished": "2020-04-07T15:26:22+05:30",
+  "dateModified": "2020-04-07T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -166,7 +166,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Maintaining multiple replicas of data is crucial to achieving scalability, availability and low latency in distributed applications. Conflict-free Replicated Data Types (CRDTs) are important building blocks in this domain because they are designed to operate correctly under the myriad behaviors possible in a weakly-consistent distributed setting. Because of the possibility of concurrent updates to the same object at different replicas, and the absence of any ordering guarantees on these updates, convergence is an important correctness criterion for CRDTs. This property asserts that two replicas which receive the same set of updates (in any order) must nonetheless converge to the same state. One way to prove that operations on a CRDT converge is to show that they commute since commutative actions by definition behave the same regardless of the order in which they execute. In this paper, we present a framework for automatically verifying convergence of CRDTs under different weak-consistency policies. Surprisingly, depending upon the consistency policy supported by the underlying system, we show that not all operations of a CRDT need to commute to achieve convergence. We develop a proof rule parameterized by a consistency specification based on the concepts of commutativity modulo consistency policy and non-interference to commutativity. We describe the design and implementation of a verification engine equipped with this rule and show how it can be used to provide the first automated convergence proofs for a number of challenging CRDTs, including sets, lists, and graphs."
+  "description": ""
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>Automated Parametrized Verification of CRDTs | Kartik Nagar</title>
+  <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems | Kartik Nagar</title>
 
 </head>
 
@@ -408,7 +408,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Automated Parametrized Verification of CRDTs</h1>
+  <h1>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</h1>
 
   
 
@@ -429,7 +429,7 @@
 
 
   
-  <span><a href="/authors/kartik-nagar/">Kartik Nagar</a></span>, <span><a href="/authors/suresh-jagannathan/">Suresh Jagannathan</a></span>
+  <span><a href="/authors/kartik-nagar/">Kartik Nagar</a></span>, <span><a href="/authors/prasita-mukherjee/">Prasita Mukherjee</a></span>, <span><a href="/authors/suresh-jagannathan/">Suresh Jagannathan</a></span>
 
   </div>
   
@@ -441,7 +441,7 @@
     
       
     
-    July 2019
+    April 2020
   </span>
   
 
@@ -469,7 +469,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/cav19/&amp;text=Automated%20Parametrized%20Verification%20of%20CRDTs" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/cav20/&amp;text=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -482,7 +482,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/cav19/&amp;t=Automated%20Parametrized%20Verification%20of%20CRDTs" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/cav20/&amp;t=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -495,7 +495,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Automated%20Parametrized%20Verification%20of%20CRDTs&amp;body=/publication/cav19/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems&amp;body=/publication/cav20/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -508,7 +508,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/cav19/&amp;title=Automated%20Parametrized%20Verification%20of%20CRDTs" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/cav20/&amp;title=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -521,7 +521,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Automated%20Parametrized%20Verification%20of%20CRDTs%20/publication/cav19/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems%20/publication/cav20/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -534,7 +534,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/cav19/&amp;title=Automated%20Parametrized%20Verification%20of%20CRDTs" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/cav20/&amp;title=Semantics,%20Specification%20and%20Bounded%20Verification%20of%20Concurrent%20Libraries%20in%20Replicated%20Systems" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -556,76 +556,10 @@
 
 
 
-  
 
 
 
 
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/cav19/cav19.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/cav19/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1007/978-3-030-25543-5_26" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1905.05684" target="_blank" rel="noopener">
-    
-    arxiv
-  </a>
-
-
-</div>
 
 
   
@@ -635,9 +569,6 @@
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Maintaining multiple replicas of data is crucial to achieving scalability, availability and low latency in distributed applications. Conflict-free Replicated Data Types (CRDTs) are important building blocks in this domain because they are designed to operate correctly under the myriad behaviors possible in a weakly-consistent distributed setting. Because of the possibility of concurrent updates to the same object at different replicas, and the absence of any ordering guarantees on these updates, convergence is an important correctness criterion for CRDTs. This property asserts that two replicas which receive the same set of updates (in any order) must nonetheless converge to the same state. One way to prove that operations on a CRDT converge is to show that they commute since commutative actions by definition behave the same regardless of the order in which they execute. In this paper, we present a framework for automatically verifying convergence of CRDTs under different weak-consistency policies. Surprisingly, depending upon the consistency policy supported by the underlying system, we show that not all operations of a CRDT need to commute to achieve convergence. We develop a proof rule parameterized by a consistency specification based on the concepts of commutativity modulo consistency policy and non-interference to commutativity. We describe the design and implementation of a verification engine equipped with this rule and show how it can be used to provide the first automated convergence proofs for a number of challenging CRDTs, including sets, lists, and graphs.</p>
     
 
     

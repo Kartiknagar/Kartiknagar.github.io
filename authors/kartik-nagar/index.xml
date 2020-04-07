@@ -5,12 +5,20 @@
     <link>/authors/kartik-nagar/</link>
       <atom:link href="/authors/kartik-nagar/index.xml" rel="self" type="application/rss+xml" />
     <description>Kartik Nagar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kartik Nagar</title>
       <link>/authors/kartik-nagar/</link>
     </image>
+    
+    <item>
+      <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</title>
+      <link>/publication/cav20/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cav20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CLOTHO : Directed Test Generation for Weakly Consistent Database Systems</title>
