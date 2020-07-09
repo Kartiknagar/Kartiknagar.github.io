@@ -2,8 +2,8 @@
   "name": "Kartik Nagar",
   "short_name": "Kartik Nagar",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
