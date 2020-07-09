@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kartik Nagar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kartik Nagar</title>
@@ -13,31 +13,32 @@
     </image>
     
     <item>
-      <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</title>
-      <link>/publication/cav20/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cav20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Automated Reasoning for Replicated Systems</title>
       <link>/project/replicated-systems/</link>
-      <pubDate>Tue, 08 Oct 2019 15:22:58 -0400</pubDate>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/project/replicated-systems/</guid>
-      <description>&lt;p&gt;For global-scale applications such as Amazon, Twitter, Facebook, etc. with users distributed across the world, in order to provide a uniform low-latency and always available service, the application data needs to replicated at multiple servers across the world. Such replicated systems also facilitate other useful properties such as better scalability and fault tolerance, but they are very hard to program since they offer a completely different memory model to the programmers. Since the same data at different replicas can be concurrently updated and the updates can be applied in different orders at different replicas, this can result in subtle concurrency bugs for the applications running on top of replicated systems which can be hard to find through testing-based approaches. In this project, we proposed a number of automated static analysis-based approaches to reason about correctness of replicated database-backed applications.&lt;/p&gt;
+      <description>&lt;p&gt;For global-scale applications such as Amazon, Twitter, Facebook, etc. with users distributed across the world, in order to provide a uniform low-latency and always available service, the application data needs to replicated at multiple servers across the world. Such replicated systems also facilitate other useful properties such as better scalability and fault tolerance, but they are very hard to program since they offer a completely different memory model to the programmers. Since the same data at different replicas can be concurrently updated and the updates can be applied in different orders at different replicas, this can result in subtle concurrency bugs for the applications running on top of replicated systems which can be hard to find through testing-based approaches. In this project, we proposed a number of automated verification techniques to reason about correctness of programs running on top of replicated systems.&lt;/p&gt;
 &lt;h2 id=&#34;representative-publications&#34;&gt;Representative Publications:&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/cav20/&#34;&gt;Semantics, Specification and Automated Verification of Concurrent Libraries in Replicated Systems&lt;/a&gt;. Kartik Nagar, Prasita Mukherjee and Suresh Jagannathan. &lt;em&gt;CAV 20&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/publication/oopsla19/&#34;&gt;CLOTHO : Directed Test Generation for Weakly Consistent Database Systems&lt;/a&gt;.
 Kia Rahmani, Kartik Nagar, Benjamin Delaware and Suresh Jagannathan. &lt;em&gt;OOPSLA 19&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/publication/cav19/&#34;&gt;Automated Parameterized Verification of CRDTs&lt;/a&gt;.
 Kartik Nagar and Suresh Jagannathan. &lt;em&gt;CAV 19&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;[Automated Detection of Serializability Violations under Weak Consistency]({{ref &amp;ldquo;/publication/concur18/index.md&amp;rdquo;}}).
+&lt;li&gt;&lt;a href=&#34;/publication/concur18/&#34;&gt;Automated Detection of Serializability Violations under Weak Consistency&lt;/a&gt;.
 Kartik Nagar and Suresh Jagannathan. &lt;em&gt;CONCUR 18&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/publication/popl18/&#34;&gt;Alone Together: Compositional Reasoning and Inference for Weak Isolation&lt;/a&gt;.
 Gowtham Kaki, Kartik Nagar, Mahsa Najafzadeh and Suresh Jagannathan. &lt;em&gt;POPL 18&lt;/em&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</title>
+      <link>/publication/cav20/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cav20/</guid>
+      <description></description>
     </item>
     
     <item>
