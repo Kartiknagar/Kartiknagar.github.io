@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kartik Nagar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kartik Nagar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Personal</title>
+      <link>/personal/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/personal/</guid>
+      <description>&lt;p&gt;I am an avid reader (mostly fiction). I diligently keep track of all of my books at my &lt;a href=&#34;https://www.goodreads.com/user/show/12401936-kartik-nagar&#34;&gt;Goodreads Account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automated Reasoning for Replicated Systems</title>
