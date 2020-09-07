@@ -12,5 +12,29 @@
       <link>/courses/apv/</link>
     </image>
     
+    <item>
+      <title>Lectures</title>
+      <link>/courses/apv/lectures/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/apv/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;9/7&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf&#34;&gt;Hoare&amp;rsquo;s Paper&lt;/a&gt;. &lt;a href=&#34;https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx&#34;&gt;Intro slides of Rajeev Alur&amp;rsquo;s Course on Computer Aided Verification&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

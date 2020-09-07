@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/apv/lectures/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/apv/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +25,6 @@
   <url>
     <loc>/personal/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
