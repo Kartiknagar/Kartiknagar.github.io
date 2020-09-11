@@ -28,11 +28,28 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;9/7&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf&#34;&gt;Hoare&amp;rsquo;s Paper&lt;/a&gt;. &lt;a href=&#34;https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx&#34;&gt;Intro slides of Rajeev Alur&amp;rsquo;s Course on Computer Aided Verification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;7/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf&#34;&gt;Hoare&amp;rsquo;s Paper&lt;/a&gt;. &lt;a href=&#34;https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx&#34;&gt;Intro Slides of Rajeev Alur&amp;rsquo;s Course on Computer Aided Verification&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/PL-Intro.pdf&#34;&gt;Propositional Logic: Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;8/9&lt;/td&gt;
+&lt;td&gt;BM Section 1.1-1.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/PL-DPLL.pdf&#34;&gt;Propositional Logic: DPLL&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;9/9&lt;/td&gt;
+&lt;td&gt;BM Section 1.6-1.7. &lt;a href=&#34;http://www.cs.utexas.edu/~isil/cs389L/lecture3-6up.pdf&#34;&gt;Slides on CDCL-based SAT Solvers from Isil Dillig&amp;rsquo;s Course&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/FOL-Intro.pdf&#34;&gt;First Order Logic: Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;11/9&lt;/td&gt;
+&lt;td&gt;BM Section 2.1-2.2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1JBOEm-YRIcVHumC-rNXJE1SIhpPOWkgd?usp=sharing&#34;&gt;APV Lectures&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
