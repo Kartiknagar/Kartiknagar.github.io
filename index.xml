@@ -14,6 +14,32 @@
     
     <item>
       <title>Lectures</title>
+      <link>/courses/lmc/lectures/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/lmc/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;td&gt;1/2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lectures</title>
       <link>/courses/apv/lectures/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/courses/apv/lectures/</guid>

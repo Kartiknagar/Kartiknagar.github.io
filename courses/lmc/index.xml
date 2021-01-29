@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS2200 - Languages, Machines and Computation | Kartik Nagar</title>
+    <link>/courses/lmc/</link>
+      <atom:link href="/courses/lmc/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS2200 - Languages, Machines and Computation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS2200 - Languages, Machines and Computation</title>
+      <link>/courses/lmc/</link>
+    </image>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/courses/lmc/lectures/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/lmc/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;td&gt;1/2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
