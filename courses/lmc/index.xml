@@ -17,27 +17,7 @@
       <link>/courses/lmc/lectures/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/courses/lmc/lectures/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Date(s)&lt;/th&gt;
-&lt;th&gt;References/Additional Reading&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/lmc/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;1/2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/lmc/DFA.pdf&#34;&gt;Deterministic Finite Automata&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;2/2,3/2&lt;/td&gt;
-&lt;td&gt;Kozen: Lecture 2,3. Sipser Chapter 1, Section 1.1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+      <description>&lt;p&gt;Lectures will be uploaded on the course Moodle page: &lt;a href=&#34;https://courses.iitm.ac.in/course/view.php?id=7129&#34;&gt;https://courses.iitm.ac.in/course/view.php?id=7129&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
 &lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1l-ybzE4dWHNdvECPOKUbokOZ1QqFIZrw?usp=sharing&#34;&gt;LMC Lectures&lt;/a&gt;&lt;/p&gt;
 </description>
