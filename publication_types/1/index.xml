@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring</title>
+      <link>/publication/pldi21/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Mergeable Replicated Data Types</title>
+      <link>/publication/papoc21/</link>
+      <pubDate>Wed, 14 Apr 2021 16:56:47 +0530</pubDate>
+      <guid>/publication/papoc21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</title>

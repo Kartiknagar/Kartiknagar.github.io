@@ -155,6 +155,22 @@
     </item>
     
     <item>
+      <title>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring</title>
+      <link>/publication/pldi21/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Mergeable Replicated Data Types</title>
+      <link>/publication/papoc21/</link>
+      <pubDate>Wed, 14 Apr 2021 16:56:47 +0530</pubDate>
+      <guid>/publication/papoc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personal</title>
       <link>/personal/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
