@@ -12,5 +12,29 @@
       <link>/courses/compiler/</link>
     </image>
     
+    <item>
+      <title>Lectures</title>
+      <link>/courses/compiler/lectures/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/compiler/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/compiler/lecture1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/8&lt;/td&gt;
+&lt;td&gt;Dragon Book: Chaper 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

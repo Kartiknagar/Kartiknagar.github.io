@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/compiler/lectures/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/lmc/lectures/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url>
