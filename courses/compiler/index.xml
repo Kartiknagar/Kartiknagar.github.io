@@ -17,22 +17,11 @@
       <link>/courses/compiler/lectures/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/courses/compiler/lectures/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Date(s)&lt;/th&gt;
-&lt;th&gt;References/Additional Reading&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/compiler/lecture1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;2/8&lt;/td&gt;
-&lt;td&gt;Dragon Book: Chaper 1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+      <description>&lt;p&gt;Lectures will be uploaded on the course Moodle page: &lt;a href=&#34;https://courses.iitm.ac.in/course/view.php?id=405&#34;&gt;https://courses.iitm.ac.in/course/view.php?id=405&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1eIl8apRzOD-Fkh1inVmIqaSO_iM8Ldl8?usp=sharing&#34;&gt;Compiler Design Lectures&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

@@ -31,7 +31,7 @@
   <meta name="description" content="Assistant Professor">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/compiler/">
+  <link rel="alternate" hreflang="en-us" href="/courses/apv-jan2022/">
 
   
 
@@ -96,14 +96,14 @@
 
 
   
-  <link rel="alternate" href="/courses/compiler/index.xml" type="application/rss+xml" title="Kartik Nagar">
+  <link rel="alternate" href="/courses/apv-jan2022/index.xml" type="application/rss+xml" title="Kartik Nagar">
   
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/courses/compiler/">
+  <link rel="canonical" href="/courses/apv-jan2022/">
 
   
   
@@ -116,12 +116,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Kartik Nagar">
-  <meta property="og:url" content="/courses/compiler/">
-  <meta property="og:title" content="CS3300 - Compiler Design | Kartik Nagar">
+  <meta property="og:url" content="/courses/apv-jan2022/">
+  <meta property="og:title" content="CS5030 - Automated Program Verification | Kartik Nagar">
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-07-29T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2022-01-03T00:00:00&#43;00:00">
   
 
   
@@ -138,7 +138,7 @@
 
 
 
-  <title>CS3300 - Compiler Design | Kartik Nagar</title>
+  <title>CS5030 - Automated Program Verification | Kartik Nagar</title>
 
 </head>
 
@@ -409,13 +409,8 @@
 <nav class="collapse docs-links" id="docs-nav">
   
   
-  <div class="docs-toc-item active">
-    <a class="docs-toc-link" href="/courses/compiler/">Overview</a>
-
-  </div>
-  
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/compiler/lectures/">Lectures</a>
+    <a class="docs-toc-link" href="/courses/apv-jan2022/lectures/">Lectures</a>
 
   </div>
   
@@ -436,7 +431,7 @@
     <li><a href="#course-overview">Course Overview</a></li>
     <li><a href="#course-contents">Course Contents</a></li>
     <li><a href="#grading-policy">Grading Policy</a></li>
-    <li><a href="#course-textbooks">Course Textbooks</a></li>
+    <li><a href="#course-schedule-tentative">Course Schedule (tentative)</a></li>
   </ul>
 </nav>
 
@@ -449,49 +444,48 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>CS3300 - Compiler Design</h1>
+          <h1>CS5030 - Automated Program Verification</h1>
 
           <div class="article-style">
             <h2 id="course-timings">Course Timings</h2>
-<p>Slot B (Mon 9 AM, Wed 1 PM, Fri 11 AM). Online.</p>
+<p>Slot F (Tue 5 PM, Wed 11 AM, Thu 9 AM, Fri 8 AM). Online.</p>
 <h2 id="course-overview">Course Overview</h2>
-<p>Compilers translate programs written by humans in high-level languages to programs which can be executed by machines. They are very important, heavily used and at the same time one of the most complex pieces of software. A whole range of techniques and ideas from Automata Theory, Algorithm Design, Computer Organization and Architecture, etc. are cleverly applied to create a compiler. In this course, students will learn in depth the various phases involved in the compilation process. The course will also involve implementing an actual compiler for a subset of the Java language.</p>
+<p>Automated Verification of programs has often been called the holy grail of computer science. While undecidable in general, over the years, a number of elegant techniques have been developed to solve this problem for several useful classes of programs. In today’s world, where the boundary between safety-critical and non safety-critical applications has become vanishingly thin and the volume and complexity of software has become staggeringly large, Automated Verification has started to gain more importance. In this course, we will go through a wide spectrum of techniques used in the domain of Automated Verification. The course will emphasise on both theory and practice, with hands-on experience of some of the tools used in this domain.</p>
+<!-- raw HTML omitted -->
 <h2 id="course-contents">Course Contents</h2>
 <ul>
-<li>Lexical Analysis and Parsing</li>
-<li>Type checking</li>
-<li>Intermediate Code Generation</li>
-<li>Register Allocation</li>
-<li>Code Generation</li>
-<li>Overview of advanced topics</li>
+<li>
+<p><strong>Preliminaries:SAT and SMT</strong> - Propositional Logic: Syntax and Semantics, Resolution-based SAT solving, DPLL, First-Order Logic: Syntax and Semantics, Satisfiability Modulo Theories, First Order Theories</p>
+</li>
+<li>
+<p><strong>Program Semantics and Specifications</strong> - Operational Semantics, Strongest Post-condition and Weakest Pre-condition, Hoare Logic</p>
+</li>
+<li>
+<p><strong>Automated Techniques</strong> - Abstract Interpretation, Bounded Model Checking, Predicate Abstraction, CEGAR, Property-Directed Reachability</p>
+</li>
 </ul>
 <h2 id="grading-policy">Grading Policy</h2>
 <ul>
-<li>Theory: 60%, Lab: 40%</li>
-<li>Theory
+<li>Assignments [3 Theory + 2 Tool]: 40%</li>
+<li>Project: 30%</li>
+<li>Endsem Exam: 30%</li>
+</ul>
+<h2 id="course-schedule-tentative">Course Schedule (tentative)</h2>
 <ul>
-<li>Quiz 1 (Sep 7): 14%</li>
-<li>Quiz 2 (Oct 12): 14%</li>
-<li>Endsem (Nov 17): 30%</li>
-<li>Class Participation: 2%</li>
+<li>Assignments
+<ul>
+<li>Theory Assignments: Feb 7, March 7, April 4.</li>
+<li>Tool Assignments: Feb 7, March 15.</li>
 </ul>
 </li>
-<li>Lab
+<li>Course Project
 <ul>
-<li>5 Assignments</li>
-<li>More details on the lab webpage: <a href="https://sites.google.com/smail.iitm.ac.in/cs3300-aug-nov-2021">https://sites.google.com/smail.iitm.ac.in/cs3300-aug-nov-2021</a></li>
+<li>Proposal Due on Feb 28.</li>
+<li>Project Presentation in last week of semester.</li>
+<li>Project Report Due on May 7.</li>
 </ul>
 </li>
 </ul>
-<h2 id="course-textbooks">Course Textbooks</h2>
-<ul>
-<li>Compilers: Principles, Techniques, and Tools, Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey D. Ullman. Addison-Wesley, 2007</li>
-<li>Modern compiler implementation in Java, Second Edition, Andrew W. Appel, Jens Palsberg. Cambridge University Press, 2002.</li>
-</ul>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
           </div>
 

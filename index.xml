@@ -17,22 +17,11 @@
       <link>/courses/compiler/lectures/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/courses/compiler/lectures/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Date(s)&lt;/th&gt;
-&lt;th&gt;References/Additional Reading&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/compiler/lecture1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;2/8&lt;/td&gt;
-&lt;td&gt;Dragon Book: Chaper 1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+      <description>&lt;p&gt;Lectures will be uploaded on the course Moodle page: &lt;a href=&#34;https://courses.iitm.ac.in/course/view.php?id=405&#34;&gt;https://courses.iitm.ac.in/course/view.php?id=405&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1eIl8apRzOD-Fkh1inVmIqaSO_iM8Ldl8?usp=sharing&#34;&gt;Compiler Design Lectures&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -49,132 +38,11 @@
     
     <item>
       <title>Lectures</title>
-      <link>/courses/apv/lectures/</link>
+      <link>/courses/apv-jan2022/lectures/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/apv/lectures/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Date(s)&lt;/th&gt;
-&lt;th&gt;References/Additional Reading&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;7/9&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf&#34;&gt;Hoare&amp;rsquo;s Paper&lt;/a&gt;. &lt;a href=&#34;https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx&#34;&gt;Intro Slides of Rajeev Alur&amp;rsquo;s Course on Computer Aided Verification&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/PL-Intro.pdf&#34;&gt;Propositional Logic: Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;8/9&lt;/td&gt;
-&lt;td&gt;BM Section 1.1-1.4&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/PL-DPLL.pdf&#34;&gt;Propositional Logic: DPLL&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;9/9, 11/9&lt;/td&gt;
-&lt;td&gt;BM Section 1.6-1.7. &lt;a href=&#34;http://www.cs.utexas.edu/~isil/cs389L/lecture3-6up.pdf&#34;&gt;Slides on CDCL-based SAT Solvers from Isil Dillig&amp;rsquo;s Course&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/FOL-Intro.pdf&#34;&gt;First Order Logic: Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;11/9&lt;/td&gt;
-&lt;td&gt;BM Section 2.1-2.2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/FOL-Validity.pdf&#34;&gt;First Order Logic: Validity&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;14/9&lt;/td&gt;
-&lt;td&gt;BM Section 2.3,2.5&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SMT-Intro.pdf&#34;&gt;Satisfiability Modulo Theories: Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;15/9&lt;/td&gt;
-&lt;td&gt;BM Section 3.1,3.3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SMT-Theories.pdf&#34;&gt;Satisfiability Modulo Theories: Theories&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;16/9,18/9&lt;/td&gt;
-&lt;td&gt;BM Section 3.2,3.3,3.6,3.8&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/FOL-Compactness.pdf&#34;&gt;First Order Logic: Compactness&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;21/9&lt;/td&gt;
-&lt;td&gt;BM Section 2.7.4&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SMT-BMC.pdf&#34;&gt;Satisfiability Modulo Theories: Bounded Model Checking&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;22/9&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Verification-Intro.pdf&#34;&gt;Z3 + Deductive Verification: Introduction&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;23/9&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Operational-Semantics.pdf&#34;&gt;Operational Semantics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;28/9&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.cse.iitb.ac.in/~akg/courses/2019-cs615/lec-01-semantics.pdf&#34;&gt;Ashutosh Gupta&amp;rsquo;s Lecture&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Operational-Semantics-FOL.pdf&#34;&gt;Operational Semantics in FOL&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;29/9&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SP.pdf&#34;&gt;Strongest Post-Condition&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;30/9,6/10,7/10&lt;/td&gt;
-&lt;td&gt;BM Section 12.1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/WP.pdf&#34;&gt;Weakest Pre-Condition&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;9/10,12/10,13/10,14/10,16/10&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Hoare-Logic.pdf&#34;&gt;Hoare Logic&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;16/10,19/10&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Hoare-Logic-VC.pdf&#34;&gt;Hoare Logic: VC Generation&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;20/10,21/10,27/10,28/10&lt;/td&gt;
-&lt;td&gt;BM Chapters 5,6&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Dafny.pdf&#34;&gt;Dafny&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;28/10,2/11&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/AI-Intro.pdf&#34;&gt;Abstract Interpretation: Introduction and Lattice Theory&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;2/11,3/11,4/11,9/11,10/11&lt;/td&gt;
-&lt;td&gt;BM Section 12.1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/AI-Soundness.pdf&#34;&gt;Abstract Interpretation: Soundness&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;10/11,11/11,16/11&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/AI-Kildall.pdf&#34;&gt;Abstract Interpretation: Kildall&amp;rsquo;s Algorithm&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;16/11,17/11,18/11&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/AI-Abstract-Domains.pdf&#34;&gt;Abstract Interpretation: Abstract Domains&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;18/11,23/11&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/Model-Checking.pdf&#34;&gt;Model Checking&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;24/11,25/11,27/11&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SoftwareModelChecking.pdf&#34;&gt;Software Model Checking Survey Paper&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
-&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1JBOEm-YRIcVHumC-rNXJE1SIhpPOWkgd?usp=sharing&#34;&gt;APV Lectures&lt;/a&gt;&lt;/p&gt;
+      <guid>/courses/apv-jan2022/lectures/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
