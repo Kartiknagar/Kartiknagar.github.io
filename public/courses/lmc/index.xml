@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS2200 - Languages, Machines and Computation | Kartik Nagar</title>
+    <link>/courses/lmc/</link>
+      <atom:link href="/courses/lmc/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS2200 - Languages, Machines and Computation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS2200 - Languages, Machines and Computation</title>
+      <link>/courses/lmc/</link>
+    </image>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/courses/lmc/lectures/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/lmc/lectures/</guid>
+      <description>&lt;p&gt;Lectures will be uploaded on the course Moodle page: &lt;a href=&#34;https://courses.iitm.ac.in/course/view.php?id=7129&#34;&gt;https://courses.iitm.ac.in/course/view.php?id=7129&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1l-ybzE4dWHNdvECPOKUbokOZ1QqFIZrw?usp=sharing&#34;&gt;LMC Lectures&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

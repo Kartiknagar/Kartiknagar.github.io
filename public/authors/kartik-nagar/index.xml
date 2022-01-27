@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kartik Nagar</title>
+    <link>/authors/kartik-nagar/</link>
+      <atom:link href="/authors/kartik-nagar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kartik Nagar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 10:42:38 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kartik Nagar</title>
+      <link>/authors/kartik-nagar/</link>
+    </image>
+    
+    <item>
+      <title>Brief Announcement: Automating and Mechanising Cutoff Proofs for Parameterized Verification of Distributed Protocols</title>
+      <link>/publication/disc21/</link>
+      <pubDate>Tue, 27 Jul 2021 10:42:38 +0530</pubDate>
+      <guid>/publication/disc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring</title>
+      <link>/publication/pldi21/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Mergeable Replicated Data Types</title>
+      <link>/publication/papoc21/</link>
+      <pubDate>Wed, 14 Apr 2021 16:56:47 +0530</pubDate>
+      <guid>/publication/papoc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics, Specification and Bounded Verification of Concurrent Libraries in Replicated Systems</title>
+      <link>/publication/cav20/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cav20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLOTHO : Directed Test Generation for Weakly Consistent Database Systems</title>
+      <link>/publication/oopsla19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oopsla19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Parametrized Verification of CRDTs</title>
+      <link>/publication/cav19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cav19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Detection of Serializability Violations under Weak Consistency</title>
+      <link>/publication/concur18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/concur18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alone together: Compositional Reasoning and Inference for Weak Isolation</title>
+      <link>/publication/popl18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/popl18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining Cache Behaviour Prediction using Cache Miss Paths</title>
+      <link>/publication/tecs17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tecs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Precise Worst Case Interference Placement for Shared Cache Analysis</title>
+      <link>/publication/tecs16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tecs16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-sensitive Cache Analysis using Cache Miss Paths</title>
+      <link>/publication/vmcai15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/vmcai15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Shared Cache Analysis using Optimal Interference Placement</title>
+      <link>/publication/rtas14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rtas14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdependent Cache Analyses for better precision and safety</title>
+      <link>/publication/memocode-12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/memocode-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

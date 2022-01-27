@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vimala S | Kartik Nagar</title>
+    <link>/authors/vimala-s/</link>
+      <atom:link href="/authors/vimala-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vimala S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 16:56:47 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vimala S</title>
+      <link>/authors/vimala-s/</link>
+    </image>
+    
+    <item>
+      <title>Certified Mergeable Replicated Data Types</title>
+      <link>/publication/papoc21/</link>
+      <pubDate>Wed, 14 Apr 2021 16:56:47 +0530</pubDate>
+      <guid>/publication/papoc21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

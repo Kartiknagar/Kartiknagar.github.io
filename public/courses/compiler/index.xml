@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS3300 - Compiler Design | Kartik Nagar</title>
+    <link>/courses/compiler/</link>
+      <atom:link href="/courses/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS3300 - Compiler Design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS3300 - Compiler Design</title>
+      <link>/courses/compiler/</link>
+    </image>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/courses/compiler/lectures/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/compiler/lectures/</guid>
+      <description>&lt;p&gt;Lectures will be uploaded on the course Moodle page: &lt;a href=&#34;https://courses.iitm.ac.in/course/view.php?id=405&#34;&gt;https://courses.iitm.ac.in/course/view.php?id=405&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1eIl8apRzOD-Fkh1inVmIqaSO_iM8Ldl8?usp=sharing&#34;&gt;Compiler Design Lectures&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
