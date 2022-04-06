@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KC Sivaramakrishnan | Kartik Nagar</title>
-    <link>/authors/kc-sivaramakrishnan/</link>
-      <atom:link href="/authors/kc-sivaramakrishnan/index.xml" rel="self" type="application/rss+xml" />
-    <description>KC Sivaramakrishnan</description>
+    <title>Vimala Soundarapandian | Kartik Nagar</title>
+    <link>/authors/vimala-soundarapandian/</link>
+      <atom:link href="/authors/vimala-soundarapandian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vimala Soundarapandian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>KC Sivaramakrishnan</title>
-      <link>/authors/kc-sivaramakrishnan/</link>
+      <title>Vimala Soundarapandian</title>
+      <link>/authors/vimala-soundarapandian/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/pldi22/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pldi22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Certified Mergeable Replicated Data Types</title>
-      <link>/publication/papoc21/</link>
-      <pubDate>Wed, 14 Apr 2021 16:56:47 +0530</pubDate>
-      <guid>/publication/papoc21/</guid>
       <description></description>
     </item>
     

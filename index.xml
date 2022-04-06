@@ -120,6 +120,14 @@
     </item>
     
     <item>
+      <title>Certified Mergeable Replicated Data Types</title>
+      <link>/publication/pldi22/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pldi22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brief Announcement: Automating and Mechanising Cutoff Proofs for Parameterized Verification of Distributed Protocols</title>
       <link>/publication/disc21/</link>
       <pubDate>Tue, 27 Jul 2021 10:42:38 +0530</pubDate>
