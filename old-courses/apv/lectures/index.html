@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="Topic Date(s) References/Additional Reading     Introduction 7/9 Hoare&rsquo;s Paper. Intro Slides of Rajeev Alur&rsquo;s Course on Computer Aided Verification   Propositional Logic: Introduction 8/9 BM Section 1.1-1.4   Propositional Logic: DPLL 9/9, 11/9 BM Section 1.6-1.7. Slides on CDCL-based SAT Solvers from Isil Dillig&rsquo;s Course   First Order Logic: Introduction 11/9 BM Section 2.1-2.2   First Order Logic: Validity 14/9 BM Section 2.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/apv-jan2022/">
+  <link rel="alternate" hreflang="en-us" href="/old-courses/apv/lectures/">
 
   
 
@@ -96,14 +96,12 @@
 
 
   
-  <link rel="alternate" href="/courses/apv-jan2022/index.xml" type="application/rss+xml" title="Kartik Nagar">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/courses/apv-jan2022/">
+  <link rel="canonical" href="/old-courses/apv/lectures/">
 
   
   
@@ -116,29 +114,34 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Kartik Nagar">
-  <meta property="og:url" content="/courses/apv-jan2022/">
-  <meta property="og:title" content="CS5030 - Automated Program Verification | Kartik Nagar">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/old-courses/apv/lectures/">
+  <meta property="og:title" content="Lectures | Kartik Nagar">
+  <meta property="og:description" content="Topic Date(s) References/Additional Reading     Introduction 7/9 Hoare&rsquo;s Paper. Intro Slides of Rajeev Alur&rsquo;s Course on Computer Aided Verification   Propositional Logic: Introduction 8/9 BM Section 1.1-1.4   Propositional Logic: DPLL 9/9, 11/9 BM Section 1.6-1.7. Slides on CDCL-based SAT Solvers from Isil Dillig&rsquo;s Course   First Order Logic: Introduction 11/9 BM Section 2.1-2.2   First Order Logic: Validity 14/9 BM Section 2."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-01-03T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-09-07T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-09-07T00:00:00&#43;00:00">
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>CS5030 - Automated Program Verification | Kartik Nagar</title>
+
+
+  <title>Lectures | Kartik Nagar</title>
 
 </head>
 
@@ -410,7 +413,12 @@
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/apv-jan2022/lectures/">Lectures</a>
+    <a class="docs-toc-link" href="/courses/apv-jan2022/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/old-courses/apv/lectures/">Lectures</a>
 
   </div>
   
@@ -420,81 +428,138 @@
     </div>
 
     
-    <div class="d-none d-xl-block col-xl-3 docs-toc">
-      <ul class="nav toc-top">
-        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
-      </ul>
-
-      <nav id="TableOfContents">
-  <ul>
-    <li><a href="#course-timings">Course Timings</a></li>
-    <li><a href="#course-overview">Course Overview</a></li>
-    <li><a href="#course-contents">Course Contents</a></li>
-    <li><a href="#grading-policy">Grading Policy</a></li>
-    <li><a href="#course-schedule-tentative">Course Schedule (tentative)</a></li>
-    <li><a href="#course-textbook">Course Textbook</a></li>
-    <li><a href="#previous-course-offerings">Previous Course Offerings</a></li>
-  </ul>
-</nav>
-
-      
-    </div>
-    
 
     <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
 
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>CS5030 - Automated Program Verification</h1>
+          <h1>Lectures</h1>
 
           <div class="article-style">
-            <h2 id="course-timings">Course Timings</h2>
-<p>Slot F (Tue 5 PM, Wed 11 AM, Thu 9 AM, Fri 8 AM). Online.</p>
-<h2 id="course-overview">Course Overview</h2>
-<p>Automated Verification of programs has often been called the holy grail of computer science. While undecidable in general, over the years, a number of elegant techniques have been developed to solve this problem for several useful classes of programs. In today’s world, where the boundary between safety-critical and non safety-critical applications has become vanishingly thin and the volume and complexity of software has become staggeringly large, Automated Verification has started to gain more importance. In this course, we will go through a wide spectrum of techniques used in the domain of Automated Verification. The course will emphasise on both theory and practice, with hands-on experience of some of the tools used in this domain.</p>
-<!-- raw HTML omitted -->
-<h2 id="course-contents">Course Contents</h2>
-<ul>
-<li>
-<p><strong>Preliminaries:SAT and SMT</strong> - Propositional Logic: Syntax and Semantics, Resolution-based SAT solving, DPLL, First-Order Logic: Syntax and Semantics, Satisfiability Modulo Theories, First Order Theories</p>
-</li>
-<li>
-<p><strong>Program Semantics and Specifications</strong> - Operational Semantics, Strongest Post-condition and Weakest Pre-condition, Hoare Logic</p>
-</li>
-<li>
-<p><strong>Automated Techniques</strong> - Abstract Interpretation, Bounded Model Checking, Predicate Abstraction, CEGAR, Property-Directed Reachability</p>
-</li>
-</ul>
-<h2 id="grading-policy">Grading Policy</h2>
-<ul>
-<li>Assignments [3 Theory + 2 Tool]: <del>40%</del> 35%</li>
-<li>Class Participation: 5%</li>
-<li>Project: 30%</li>
-<li>Endsem Exam: 30%</li>
-</ul>
-<h2 id="course-schedule-tentative">Course Schedule (tentative)</h2>
-<ul>
-<li>Assignments
-<ul>
-<li>Theory Assignments: Feb 15, March 7, April 4.</li>
-<li>Tool Assignments: Feb 25, March 15.</li>
-</ul>
-</li>
-<li>Course Project
-<ul>
-<li>Proposal Due on Feb 28.</li>
-<li>Project Presentation in last week of semester.</li>
-<li>Project Report Due on May 7.</li>
-</ul>
-</li>
-</ul>
-<h2 id="course-textbook">Course Textbook</h2>
-<ul>
-<li>[BM] The Calculus of Computation: Decision Procedures with Applications to Verification. Aaron R. Bradley and Zohar Manna.</li>
-</ul>
-<h2 id="previous-course-offerings">Previous Course Offerings</h2>
-<p><a href="/old-courses/apv/">Aug-Dec 2020</a></p>
+            <table>
+<thead>
+<tr>
+<th>Topic</th>
+<th>Date(s)</th>
+<th>References/Additional Reading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Introduction.pdf">Introduction</a></td>
+<td>7/9</td>
+<td><a href="https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf">Hoare&rsquo;s Paper</a>. <a href="https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx">Intro Slides of Rajeev Alur&rsquo;s Course on Computer Aided Verification</a></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/PL-Intro.pdf">Propositional Logic: Introduction</a></td>
+<td>8/9</td>
+<td>BM Section 1.1-1.4</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/PL-DPLL.pdf">Propositional Logic: DPLL</a></td>
+<td>9/9, 11/9</td>
+<td>BM Section 1.6-1.7. <a href="http://www.cs.utexas.edu/~isil/cs389L/lecture3-6up.pdf">Slides on CDCL-based SAT Solvers from Isil Dillig&rsquo;s Course</a></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/FOL-Intro.pdf">First Order Logic: Introduction</a></td>
+<td>11/9</td>
+<td>BM Section 2.1-2.2</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/FOL-Validity.pdf">First Order Logic: Validity</a></td>
+<td>14/9</td>
+<td>BM Section 2.3,2.5</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/SMT-Intro.pdf">Satisfiability Modulo Theories: Introduction</a></td>
+<td>15/9</td>
+<td>BM Section 3.1,3.3</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/SMT-Theories.pdf">Satisfiability Modulo Theories: Theories</a></td>
+<td>16/9,18/9</td>
+<td>BM Section 3.2,3.3,3.6,3.8</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/FOL-Compactness.pdf">First Order Logic: Compactness</a></td>
+<td>21/9</td>
+<td>BM Section 2.7.4</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/SMT-BMC.pdf">Satisfiability Modulo Theories: Bounded Model Checking</a></td>
+<td>22/9</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Verification-Intro.pdf">Z3 + Deductive Verification: Introduction</a></td>
+<td>23/9</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Operational-Semantics.pdf">Operational Semantics</a></td>
+<td>28/9</td>
+<td><a href="https://www.cse.iitb.ac.in/~akg/courses/2019-cs615/lec-01-semantics.pdf">Ashutosh Gupta&rsquo;s Lecture</a></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Operational-Semantics-FOL.pdf">Operational Semantics in FOL</a></td>
+<td>29/9</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/SP.pdf">Strongest Post-Condition</a></td>
+<td>30/9,6/10,7/10</td>
+<td>BM Section 12.1</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/WP.pdf">Weakest Pre-Condition</a></td>
+<td>9/10,12/10,13/10,14/10,16/10</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Hoare-Logic.pdf">Hoare Logic</a></td>
+<td>16/10,19/10</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Hoare-Logic-VC.pdf">Hoare Logic: VC Generation</a></td>
+<td>20/10,21/10,27/10,28/10</td>
+<td>BM Chapters 5,6</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Dafny.pdf">Dafny</a></td>
+<td>28/10,2/11</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/AI-Intro.pdf">Abstract Interpretation: Introduction and Lattice Theory</a></td>
+<td>2/11,3/11,4/11,9/11,10/11</td>
+<td>BM Section 12.1</td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/AI-Soundness.pdf">Abstract Interpretation: Soundness</a></td>
+<td>10/11,11/11,16/11</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/AI-Kildall.pdf">Abstract Interpretation: Kildall&rsquo;s Algorithm</a></td>
+<td>16/11,17/11,18/11</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/AI-Abstract-Domains.pdf">Abstract Interpretation: Abstract Domains</a></td>
+<td>18/11,23/11</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://kartiknagar.github.io/files/apv/Model-Checking.pdf">Model Checking</a></td>
+<td>24/11,25/11,27/11</td>
+<td><a href="https://kartiknagar.github.io/files/apv/SoftwareModelChecking.pdf">Software Model Checking Survey Paper</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="video-lectures">Video Lectures</h1>
+<p>Link to Google Drive Folder containing all videos: <a href="https://drive.google.com/drive/folders/1JBOEm-YRIcVHumC-rNXJE1SIhpPOWkgd?usp=sharing">APV Lectures</a></p>
 
           </div>
 
