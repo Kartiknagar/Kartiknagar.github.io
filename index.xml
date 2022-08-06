@@ -288,6 +288,27 @@
     </item>
     
     <item>
+      <title>Alumni</title>
+      <link>/alumni/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/alumni/</guid>
+      <description>&lt;h2 id=&#34;mtech&#34;&gt;M.Tech.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vivek Kumar (2021-22)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Verifying Robustness of Transactional Applications under Weak Consistency&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Aanchal Jawere (2021-22)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Parallelizing Transaction Validation for Smart Contracts in Blockchain&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Personal</title>
       <link>/personal/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
