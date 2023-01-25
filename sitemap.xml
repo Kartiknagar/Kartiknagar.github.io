@@ -13,7 +13,12 @@
   </url>
   
   <url>
-    <loc>/courses/apv-jan2022/lectures/</loc>
+    <loc>/courses/apv-jan2023/lectures/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/old-courses/apv-jan2022/lectures/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,8 +43,18 @@
   </url>
   
   <url>
-    <loc>/courses/apv-jan2022/</loc>
+    <loc>/courses/apv-jan2023/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/old-courses/apv-jan2022/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,7 +108,7 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/old-courses/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -130,11 +145,6 @@
   <url>
     <loc>/publication/papoc21/</loc>
     <lastmod>2021-04-14T16:56:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/old-courses/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

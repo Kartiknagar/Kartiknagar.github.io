@@ -38,9 +38,40 @@
     
     <item>
       <title>Lectures</title>
-      <link>/courses/apv-jan2022/lectures/</link>
+      <link>/courses/apv-jan2023/lectures/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/apv-jan2022/lectures/</guid>
+      <guid>/courses/apv-jan2023/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2023/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;17/1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://xavierleroy.org/talks/Milner-award-lecture.pdf&#34;&gt;Xavier Leroy: &amp;ldquo;In search of software perfection&amp;rdquo;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2023/SAT-SMT.pdf&#34;&gt;SAT-SMT&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;18/1,19/1,20/1,24/1,25/1&lt;/td&gt;
+&lt;td&gt;BM Chapter 1,2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/old-courses/apv-jan2022/lectures/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/old-courses/apv-jan2022/lectures/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS5030 - Automated Program Verification | Kartik Nagar</title>
+    <link>/old-courses/apv-jan2022/</link>
+      <atom:link href="/old-courses/apv-jan2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS5030 - Automated Program Verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS5030 - Automated Program Verification</title>
+      <link>/old-courses/apv-jan2022/</link>
+    </image>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/old-courses/apv-jan2022/lectures/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/old-courses/apv-jan2022/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Introduction.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;18/1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf&#34;&gt;Hoare&amp;rsquo;s Paper&lt;/a&gt;. &lt;a href=&#34;https://www.cis.upenn.edu/~alur/CIS673/Spring20/673Intro.pptx&#34;&gt;Intro Slides of Rajeev Alur&amp;rsquo;s Course on Computer Aided Verification&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Propositional-Logic.pdf&#34;&gt;Propositional Logic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;19/1,20/1,21/1,27/1&lt;/td&gt;
+&lt;td&gt;BM Chapter 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/First-Order-Logic.pdf&#34;&gt;First Order Logic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;28/1,1/2&lt;/td&gt;
+&lt;td&gt;BM Chapter 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/SMT.pdf&#34;&gt;Satisfiability Modulo Theories&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/2,3/2,4/2,8/2&lt;/td&gt;
+&lt;td&gt;BM Chapter 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/SMT-Application.pdf&#34;&gt;SMT:Application to BMC + Z3&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;9/2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Semantics.pdf&#34;&gt;Operational Semantics and Verification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;10/2,11/2,16/2,17/2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/SP.pdf&#34;&gt;Strongest Post Condition&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;17/2,18/2,22/2,23/2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/WP.pdf&#34;&gt;Weakest Pre Condition&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;24/2,25/2,1/3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Hoare-Logic.pdf&#34;&gt;Hoare Logic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/3,3/3,4/3,9/3,10/3,15/3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Dafny.pdf&#34;&gt;Dafny&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Abstract-Interpretation-Soundness.pdf&#34;&gt;Abstract Interpretation: Soundness&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;16/3,17/3,22/3,23/3,24/3,25/3,29/3,30/3,1/4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Abstract-Interpretation-Kildall.pdf&#34;&gt;Abstract Interpretation: Kildall&amp;rsquo;s Algorithm&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;5/4,6/4,7/4,8/4,12/4,13/4,19/4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv-jan2022/Model-Checking.pdf&#34;&gt;Model Checking&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;19/4,20/4,21/4,22/4&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://kartiknagar.github.io/files/apv/SoftwareModelChecking.pdf&#34;&gt;Software Model Checking Survey Paper&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h1&gt;
+&lt;p&gt;&lt;del&gt;Link to Google Drive Folder containing all videos: &lt;a href=&#34;https://drive.google.com/drive/folders/1P0ccwkxYHxNbct7gPiQYrl6nG96iT8TM?usp=sharing&#34;&gt;APV-Jan-2022 Lectures&lt;/a&gt;&lt;/del&gt; Lectures upto 28/1 are available on the above link; rest of the lecture recordings will be directly shared through e-mail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
