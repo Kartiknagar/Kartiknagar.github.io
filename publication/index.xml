@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 18:25:16 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Automating Cutoff-based Verification of Distributed Protocols</title>
+      <link>/publication/fmcad23/</link>
+      <pubDate>Wed, 26 Jul 2023 18:25:16 +0530</pubDate>
+      <guid>/publication/fmcad23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Certified Mergeable Replicated Data Types</title>

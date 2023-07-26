@@ -5,12 +5,20 @@
     <link>/authors/shreesha-bhat/</link>
       <atom:link href="/authors/shreesha-bhat/index.xml" rel="self" type="application/rss+xml" />
     <description>Shreesha Bhat</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 10:42:38 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 18:25:16 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shreesha Bhat</title>
       <link>/authors/shreesha-bhat/</link>
     </image>
+    
+    <item>
+      <title>Automating Cutoff-based Verification of Distributed Protocols</title>
+      <link>/publication/fmcad23/</link>
+      <pubDate>Wed, 26 Jul 2023 18:25:16 +0530</pubDate>
+      <guid>/publication/fmcad23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brief Announcement: Automating and Mechanising Cutoff Proofs for Parameterized Verification of Distributed Protocols</title>
