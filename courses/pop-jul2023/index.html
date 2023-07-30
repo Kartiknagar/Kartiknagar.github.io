@@ -31,7 +31,7 @@
   <meta name="description" content="Assistant Professor">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="/courses/pop-jul2023/">
 
   
 
@@ -96,12 +96,14 @@
 
 
   
+  <link rel="alternate" href="/courses/pop-jul2023/index.xml" type="application/rss+xml" title="Kartik Nagar">
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="/courses/pop-jul2023/">
 
   
   
@@ -114,12 +116,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Kartik Nagar">
-  <meta property="og:url" content="/404.html">
-  <meta property="og:title" content="404 Page not found | Kartik Nagar">
+  <meta property="og:url" content="/courses/pop-jul2023/">
+  <meta property="og:title" content="CS3100 - Paradigms of Programming | Kartik Nagar">
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2023-07-30T00:00:00&#43;00:00">
   
 
   
@@ -136,7 +138,7 @@
 
 
 
-  <title>404 Page not found | Kartik Nagar</title>
+  <title>CS3100 - Paradigms of Programming | Kartik Nagar</title>
 
 </head>
 
@@ -298,7 +300,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
         </li>
 
         
@@ -383,51 +385,149 @@
 </nav>
 
 
-  <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
   
 
-  
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+     <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
 
   
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
   
   
-  <h2>Latest</h2>
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/courses/pop-jul2023/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/pop-jul2023/references/">References</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/pop-jul2023/software/">Software</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-3 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
   <ul>
-    
-      <li><a href="/courses/pop-jul2023/references/">References</a></li>
-    
-      <li><a href="/courses/pop-jul2023/software/">Software</a></li>
-    
-      <li><a href="/courses/compiler/lectures/">Lectures</a></li>
-    
-      <li><a href="/courses/lmc/lectures/">Lectures</a></li>
-    
-      <li><a href="/courses/apv-jan2023/lectures/">Lectures</a></li>
-    
-      <li><a href="/old-courses/apv-jan2022/lectures/">Lectures</a></li>
-    
-      <li><a href="/old-courses/apv/lectures/">Lectures</a></li>
-    
-      <li><a href="/publication/fmcad23/">Automating Cutoff-based Verification of Distributed Protocols</a></li>
-    
-      <li><a href="/publication/pldi22/">Certified Mergeable Replicated Data Types</a></li>
-    
-      <li><a href="/publication/disc21/">Brief Announcement: Automating and Mechanising Cutoff Proofs for Parameterized Verification of Distributed Protocols</a></li>
-    
+    <li><a href="#course-timings">Course Timings</a></li>
+    <li><a href="#course-overview">Course Overview</a></li>
+    <li><a href="#course-contents">Course Contents</a></li>
+    <li><a href="#grading-policy">Grading Policy</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>CS3100 - Paradigms of Programming</h1>
+
+          <div class="article-style">
+            <h2 id="course-timings">Course Timings</h2>
+<p>Slot E (Tue 11 AM, Wed 10 AM, Thu 8 AM). SSB 134</p>
+<h2 id="course-overview">Course Overview</h2>
+<p>The goal of this course is to introduce students to different styles of programming languages. Specifically, we will study functional programming through OCaml, and logic programming through Prolog. We will see how the choice of a programming language can shape the process of organizing the computation required to solve a programming task. We will also understand what are the core features required in any turing-complete programming language, and which features are &ldquo;syntactic sugar&rdquo;. At the end of the course, students will have gained a better understanding of the differences between programming languages, how to choose an appropriate programming language for a task, how to quickly learn new languages and potentially design languages suitable for a system. The official course description is <a href="https://www.cse.iitm.ac.in/course_details.php?arg=MTk=">here</a>.</p>
+<!-- raw HTML omitted -->
+<h2 id="course-contents">Course Contents</h2>
+<ul>
+<li>
+<p><strong>Functional Programming in OCaml</strong> - Expressions, Functions, Datatypes, Pattern Matching, Higher-order programming, Lambda Calculus: Syntax, semantics, encodings, STLC, Side effects, Modular Programming, Streams, Monads, GADTs</p>
+</li>
+<li>
+<p><strong>Logic Programming in Prolog</strong> - Logical Foundations, Lists in Prolog, Control in Prolog, Mutable data structures, Generate and Test, Cuts and Negation, Countdown, Type inference, Graph Search, Database Programming, Constraint Logic Programming</p>
+</li>
+</ul>
+<h2 id="grading-policy">Grading Policy</h2>
+<ul>
+<li>Assignments [Total 7, 2% + (6 * 8%)]: 50%</li>
+<li>Quiz 1 and 2: 10 % each</li>
+<li>Endsem Exam: 30%</li>
+</ul>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The course heavily borrows material from an earlier offering by <a href="https://kcsrk.info/">KC Sivaramakrishnan</a> and the course CS3100 from Cornell University.</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          
+
+          
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
   
 
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
 </div>
+
 
       
 
@@ -491,6 +591,11 @@
 
     
     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
 
     
     
@@ -542,31 +647,6 @@
 
 
 
-  
-  <div class="container">
-    <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-  </div>
   
 
   

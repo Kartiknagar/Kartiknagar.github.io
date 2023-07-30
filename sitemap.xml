@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/pop-jul2023/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/pop-jul2023/references/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/pop-jul2023/software/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/compiler/lectures/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url>
@@ -53,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/courses/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2023-07-26T18:25:16+05:30</lastmod>
   </url>
@@ -85,11 +105,6 @@
   <url>
     <loc>/authors/shreesha-bhat/</loc>
     <lastmod>2023-07-26T18:25:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>References</title>
+      <link>/courses/pop-jul2023/references/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/pop-jul2023/references/</guid>
+      <description>&lt;p&gt;The lecture slides (jupyter notebooks) will be shared after each lecture. These can be accessed at &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;this github page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some additional references:&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;Ocaml&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Functional Programming in OCaml&lt;/em&gt;, Cornell CS3100 textbook. Freely available &lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Real World OCaml&lt;/em&gt; by Yaron Minsky, Anil Madhavapeddy and Jason Hickey. The book is freely available &lt;a href=&#34;https://dev.realworldocaml.org/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;OCaml Manual - available &lt;a href=&#34;https://v2.ocaml.org/manual/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;For practicing programming in OCaml - see &lt;a href=&#34;https://ocaml.org/problems&#34;&gt;99 Problems in OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lambda-calculus&#34;&gt;Lambda Calculus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Types and Programming Languages&lt;/em&gt; by Benjamin Pierce.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lecture notes on Lambda Calculus&lt;/em&gt; by Peter Seliner, available &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prolog&#34;&gt;Prolog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Programming Languages, Concepts and Constructs&lt;/em&gt;, 2nd edition, by Ravi Sethi. Chapter 11.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Art of Prolog&lt;/em&gt;, 2nd edition, by Leon Sterling and Ehud Y. Shapiro.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/courses/pop-jul2023/software/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/pop-jul2023/software/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://hub.docker.com/r/kartiknagar/cs3100_o23&#34;&gt;docker image&lt;/a&gt; is setup for the course. It contains the necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks. Instructions for setting this up in your computers are available at this &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;link&lt;/a&gt;. Please contact the instructor or TAs if you are facing any issues with this. The lectures and the assignment submission require this setup, and in fact assignment 0 is meant just for ensuring that you have set it up.&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;OCaml&lt;/h2&gt;
+&lt;p&gt;It is not necessary to install OCaml on your computers. You can run and experiment with OCaml programs through the juypter notebooks on the Docker image. However, if you still want to install Ocaml, follow the instructions &lt;a href=&#34;https://ocaml.org/install&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;swi-prolog&#34;&gt;SWI-Prolog&lt;/h2&gt;
+&lt;p&gt;Installation instructions are available &lt;a href=&#34;https://www.swi-prolog.org/Download.html&#34;&gt;here&lt;/a&gt;. Again, it is not necessary to install SWI-Prolog on your computers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lectures</title>
       <link>/courses/compiler/lectures/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
