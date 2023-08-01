@@ -13,6 +13,32 @@
     </image>
     
     <item>
+      <title>Lectures</title>
+      <link>/courses/pop-jul2023/lectures/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/pop-jul2023/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;td&gt;1/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;Set up the course jupyter notebooks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>References</title>
       <link>/courses/pop-jul2023/references/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
