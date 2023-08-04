@@ -38,8 +38,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Expressions in OCaml&lt;/td&gt;
-&lt;td&gt;2/8&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/basics/expressions.html&#34;&gt;Chapter 2 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/8,3/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/basics/expressions.html&#34;&gt;Chapter 2.2 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Functions in OCaml&lt;/td&gt;
+&lt;td&gt;3/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/basics/functions.html&#34;&gt;Chapter 2.3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
