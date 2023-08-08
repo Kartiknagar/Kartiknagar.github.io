@@ -39,17 +39,20 @@
 &lt;tr&gt;
 &lt;td&gt;Expressions in OCaml&lt;/td&gt;
 &lt;td&gt;2/8,3/8&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/basics/expressions.html&#34;&gt;Chapter 2.2 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/basics/expressions.html&#34;&gt;Chapter 2.3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Functions in OCaml&lt;/td&gt;
-&lt;td&gt;3/8&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/basics/functions.html&#34;&gt;Chapter 2.3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;3/8,8/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/basics/functions.html&#34;&gt;Chapter 2.4 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Datatypes in OCaml&lt;/td&gt;
+&lt;td&gt;8/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/data/intro.html&#34;&gt;Chapter 3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -62,7 +65,7 @@
 &lt;p&gt;Here are some additional references:&lt;/p&gt;
 &lt;h2 id=&#34;ocaml&#34;&gt;Ocaml&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Functional Programming in OCaml&lt;/em&gt;, Cornell CS3100 textbook. Freely available &lt;a href=&#34;https://courses.cs.cornell.edu/cs3110/2021sp/textbook/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Functional Programming in OCaml&lt;/em&gt;, Cornell CS3100 textbook. Freely available &lt;a href=&#34;https://cs3110.github.io/textbook/cover.html&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Real World OCaml&lt;/em&gt; by Yaron Minsky, Anil Madhavapeddy and Jason Hickey. The book is freely available &lt;a href=&#34;https://dev.realworldocaml.org/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;OCaml Manual - available &lt;a href=&#34;https://v2.ocaml.org/manual/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;For practicing programming in OCaml - see &lt;a href=&#34;https://ocaml.org/problems&#34;&gt;99 Problems in OCaml&lt;/a&gt;&lt;/li&gt;
