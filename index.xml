@@ -48,8 +48,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Datatypes in OCaml&lt;/td&gt;
-&lt;td&gt;8/8&lt;/td&gt;
+&lt;td&gt;8/8,9/8&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/data/intro.html&#34;&gt;Chapter 3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pattern Matching in OCaml&lt;/td&gt;
+&lt;td&gt;10/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/data/lists.html&#34;&gt;Chapter 3.1 in Cornell 3110 textbook&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
