@@ -62,6 +62,109 @@
     </item>
     
     <item>
+      <title>Paper List</title>
+      <link>/courses/rtc-jul2023/paper_list/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/rtc-jul2023/paper_list/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sound, complete, and tractable linearizability monitoring for concurrent collections. Michael Emmi and Constantin Enea. POPL 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finding the dwarf: recovering precise types from WebAssembly binaries. Daniel Lehmann, Michael Pradel. PLDI 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Tree Clock Data Structure for Causal Orderings in Concurrent Executions. Umang Mathur, Andreas Pavlogiannis, Hunkar Can Tunc, Mahesh Viswanathan. ASPLOS 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A study of real-world data races in Golang. Milind Chabbi, Murali Krishna Ramanathan. PLDI 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3. James Bornholt,Rajeev Joshi et al. SOSP 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compiler-assisted object inlining with value fields. Rodrigo Bruno, Vojin Jovanovic, Christian Wimmer, Gustavo Alonso. PLDI 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finding Real Bugs in Big Programs with Incorrectness Logic. Quang Loc Le, Azalea Raad et al. OOPSLA 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When threads meet events: efficient and precise static race detection with origins. Bozhen Liu, Peiming Liu, Yanze Li, Chia-Che Tsai, Dilma Da Silva, Jeff Huang. PLDI 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bounding data races in space and time. Stephen Dolan, KC Sivaramakrishnan, Anil Madhavapeddy. PLDI 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From folklore to fact: comparing implementations of stacks and continuations. Kavon Farvardin, John H. Reppy. PLDI 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Persistency semantics of the Intel-x86 architecture. Azalea Raad, John Wickerson, Gil Neiger, and Viktor Vafeiadis. POPL 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On-stack replacement, distilled. Daniele Cono D&amp;rsquo;Elia, Camil Demetrescu. PLDI 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verdi: A framework for implementing and formally verifying distributed systems. James R. Wilcox, Doug Woos, et al. PLDI 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Active learning of points-to specifications. Osbert Bastani, Rahul Sharma, Alex Aiken, Percy Liang. PLDI 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mirror: Making Lock-free data structures persistent. Michal Friedman, Erez Petrank, Pefro Ramalhete. PLDI 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pinpoint: fast and precise sparse value flow analysis for million lines of code. Qingkai Shi, Xiao Xiao, Rongxin Wu, Jinguo Zhou, Gang Fan, Charles Zhang. PLDI 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Synthesizing highly expressive SQL queries from input-output examples. Chenglong Wang, Alvin Cheung, Ratislav Bodik. PLDI 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BigFoot: static check placement for dynamic race detection. Dustin Rhodes, Cormac Flanagan, Stephen N. Freund. PLDI 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FlashMeta: a framework for inductive program synthesis. Oleksandr Polozov, Sumit Gulwani. OOPSLA 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Efficient and precise points-to analysis: modeling the heap by merging equivalent automata. Tian Tan, Yue Li, Jingling Xue. PLDI 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RacerD: compositional static race detection. Sam Blackshear, Nikos Gorogiannis, Peter W. O’Hearn, Ilya Sergey. OOPSLA 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provably correct peephole optimizations with alive. Nuno P. Lopes, David Menendez, Santosh Nagarakatte, John Regehr. PLDI 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sound Sequentialisation for concurrent program verification. Azadeh Farzan, Dominik Klumpp, Andreas Podelski. PLDI 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A fast in-place interpreter for WebAssembly. Ben L. Titzer. OOPSLA 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimal dynamic partial order reduction. Parosh Aziz Abdulla, Stavros Aronis, Bengt Jonsson. Konstantinos Sagonos. POPL 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Type stability in Julia: avoiding performance pathologies in JIT compilation. Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek. OOPSLA 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye. SOSP 19&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dynamic dispatch of context-sensitive optimizations. Gabriel Poesia, Fernando Magno Quintão Pereira. OOPSLA 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Precision-guided context sensitivity for pointer analysis. Yue Li, Tian Tan, Anders Møller, Yannis Smaragdakis. OOPSLA 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Type Inference for C: Applications to the Static Analysis of Incomplete Programs. Leandro T. C. Melo, Rodrigo Geraldo Ribeiro, Breno Campos Ferreira Guimarães, Fernando Magno Quintão Pereira. TOPLAS 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rethinking Incremental and Parallel Pointer Analysis. Bozhen Liu, Jeff Huang, Lawrence Rauchwerger. TOPLAS 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>References</title>
       <link>/courses/pop-jul2023/references/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
