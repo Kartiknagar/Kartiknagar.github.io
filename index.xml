@@ -13,6 +13,74 @@
     </image>
     
     <item>
+      <title>Schedule</title>
+      <link>/courses/rtc-jul2023/schedule/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/rtc-jul2023/schedule/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Paper Title&lt;/th&gt;
+&lt;th&gt;Main Presentation&lt;/th&gt;
+&lt;th&gt;Related Work Presentation&lt;/th&gt;
+&lt;th&gt;Future Work Presentation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;When threads meet events: efficient and precise static race detection with origins.  Bozhen Liu et al. PLDI 2021&lt;/td&gt;
+&lt;td&gt;Aug 23: Yuvraj Talukdar, Venkata Naga Sai Rohit Kanteti&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Finding the dwarf: recovering precise types from WebAssembly binaries.  Daniel Lehmann, Michael Pradel. PLDI 2022&lt;/td&gt;
+&lt;td&gt;Aug 30: Abdun Nihaal, Robert K Samuel&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A study of real-world data races in Golang. Milind Chabbi, Murali Krishna Ramanathan. PLDI 2022&lt;/td&gt;
+&lt;td&gt;Sep 6: Chinmay Badjatya, Rudrik Shah&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;RacerD: compositional static race detection.  Sam Blackshear, Nikos Gorogiannis, Peter W. O’Hearn, Ilya Sergey. OOPSLA 2018&lt;/td&gt;
+&lt;td&gt;Sep 13: Mohammed Rizan Farooqui&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Compiler-assisted object inlining with value fields.  Rodrigo Bruno, Vojin Jovanovic, Christian Wimmer, Gustavo Alonso. PLDI 2021&lt;/td&gt;
+&lt;td&gt;Sep 20: Divya Rathore, Omkar Dilip Dhawal&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3.  James Bornholt,Rajeev Joshi et al. SOSP 2021&lt;/td&gt;
+&lt;td&gt;Sep 27: Bommineni Chathur, Dhruv Sanjaykumar Maroo&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Synthesizing highly expressive SQL queries from input-output examples.  Chenglong Wang, Alvin Cheung, Ratislav Bodik. PLDI 2017&lt;/td&gt;
+&lt;td&gt;Oct 4: Sudeep Chowdhary, Divyanshu Upadhyay&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A fast in-place interpreter for WebAssembly.  Ben L. Titzer. OOPSLA 2022&lt;/td&gt;
+&lt;td&gt;Oct 11: Narasimha Naidu, Nayani Chetana&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lectures</title>
       <link>/courses/pop-jul2023/lectures/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
