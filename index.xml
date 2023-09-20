@@ -168,6 +168,11 @@
 &lt;td&gt;15/9, 20/9&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/modules/intro.html&#34;&gt;Chapter 7 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/files-modules-and-programs.html&#34;&gt;Chapter on Modules&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/functors.html&#34;&gt;Chapter on Functors&lt;/a&gt; in Real World Ocaml.&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Streams, Laziness and Memoization in OCaml&lt;/td&gt;
+&lt;td&gt;20/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/ds/sequence.html&#34;&gt;Chapter 8.4,8.5 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5&#34;&gt;Laziness &amp;amp; Memoization&lt;/a&gt; in Real World Ocaml.&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
