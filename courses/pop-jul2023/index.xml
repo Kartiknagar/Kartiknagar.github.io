@@ -83,8 +83,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Side effects in OCaml&lt;/td&gt;
-&lt;td&gt;13/9&lt;/td&gt;
+&lt;td&gt;13/9, 14/9&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/mut/intro.html&#34;&gt;Chapter 7 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/imperative-programming.html&#34;&gt;Chapter on Imperative programming in Real World OCaml&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Modular Programming in OCaml&lt;/td&gt;
+&lt;td&gt;15/9, 20/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/modules/intro.html&#34;&gt;Chapter 7 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/files-modules-and-programs.html&#34;&gt;Chapter on Modules&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/functors.html&#34;&gt;Chapter on Functors&lt;/a&gt; in Real World Ocaml.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
