@@ -128,8 +128,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Cuts and Negation&lt;/td&gt;
-&lt;td&gt;25/10&lt;/td&gt;
+&lt;td&gt;25/10,26/10,31/10&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in PLCC&lt;/a&gt;, &lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 11 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Type Inference and Program Synthesis using Prolog&lt;/td&gt;
+&lt;td&gt;1/11&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
