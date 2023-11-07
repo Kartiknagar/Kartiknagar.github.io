@@ -210,8 +210,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Type Inference and Program Synthesis using Prolog&lt;/td&gt;
-&lt;td&gt;1/11&lt;/td&gt;
+&lt;td&gt;31/10, 1/11&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mutable Data Structures and Difference Lists in Prolog&lt;/td&gt;
+&lt;td&gt;2/11, 7/11&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 15 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
