@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS3100 - Paradigms of Programming | Kartik Nagar</title>
+    <link>/old-courses/pop-jul2023/</link>
+      <atom:link href="/old-courses/pop-jul2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS3100 - Paradigms of Programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS3100 - Paradigms of Programming</title>
+      <link>/old-courses/pop-jul2023/</link>
+    </image>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/old-courses/pop-jul2023/lectures/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/old-courses/pop-jul2023/lectures/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;References/Additional Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;td&gt;1/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;Set up the course jupyter notebooks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Why Functional Programming?&lt;/td&gt;
+&lt;td&gt;2/8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Expressions in OCaml&lt;/td&gt;
+&lt;td&gt;2/8,3/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/basics/expressions.html&#34;&gt;Chapter 2.3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Functions in OCaml&lt;/td&gt;
+&lt;td&gt;3/8,8/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/basics/functions.html&#34;&gt;Chapter 2.4 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Datatypes in OCaml&lt;/td&gt;
+&lt;td&gt;8/8,9/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/data/intro.html&#34;&gt;Chapter 3 in Cornell CS3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pattern Matching in OCaml&lt;/td&gt;
+&lt;td&gt;10/8,16/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/data/lists.html&#34;&gt;Chapter 3.1 in Cornell 3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Higher-order programming in OCaml&lt;/td&gt;
+&lt;td&gt;17/8&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/hop/intro.html&#34;&gt;Chapter 4 in Cornell 3110 textbook&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lambda Calculus: Syntax&lt;/td&gt;
+&lt;td&gt;22/8,23/8&lt;/td&gt;
+&lt;td&gt;Peter Selinger&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;lecture notes  on lambda calculus&lt;/a&gt; Chapter 2, &lt;a href=&#34;https://www.cis.upenn.edu/~bcpierce/tapl/&#34;&gt;Types and Programming Languages&lt;/a&gt; Chapter 5.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lambda Calculus: Semantics&lt;/td&gt;
+&lt;td&gt;30/8,31/8,5/9&lt;/td&gt;
+&lt;td&gt;Peter Selinger&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;lecture notes  on lambda calculus&lt;/a&gt; Chapter 2, &lt;a href=&#34;https://www.cis.upenn.edu/~bcpierce/tapl/&#34;&gt;Types and Programming Languages&lt;/a&gt; Chapter 5.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lambda Calculus: Encodings&lt;/td&gt;
+&lt;td&gt;5/9,6/9,7/9,12/9&lt;/td&gt;
+&lt;td&gt;Peter Selinger&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;lecture notes  on lambda calculus&lt;/a&gt; Chapter 6, &lt;a href=&#34;https://www.cis.upenn.edu/~bcpierce/tapl/&#34;&gt;Types and Programming Languages&lt;/a&gt; Chapter 5.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lambda Calculus: STLC&lt;/td&gt;
+&lt;td&gt;12/9, 13/9&lt;/td&gt;
+&lt;td&gt;Peter Selinger&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;lecture notes  on lambda calculus&lt;/a&gt; Chapter 6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Side effects in OCaml&lt;/td&gt;
+&lt;td&gt;13/9, 14/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/mut/intro.html&#34;&gt;Chapter 7 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/imperative-programming.html&#34;&gt;Chapter on Imperative programming in Real World OCaml&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Modular Programming in OCaml&lt;/td&gt;
+&lt;td&gt;15/9, 20/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/modules/intro.html&#34;&gt;Chapter 5 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/files-modules-and-programs.html&#34;&gt;Chapter on Modules&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/functors.html&#34;&gt;Chapter on Functors&lt;/a&gt; in Real World Ocaml.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Streams, Laziness and Memoization in OCaml&lt;/td&gt;
+&lt;td&gt;20/9,21/9,26/9&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/chapters/ds/sequence.html&#34;&gt;Chapter 8.4,8.5 in Cornell CS3110 textbook&lt;/a&gt;, &lt;a href=&#34;https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5&#34;&gt;Laziness &amp;amp; Memoization&lt;/a&gt; in Real World Ocaml.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prolog Basics&lt;/td&gt;
+&lt;td&gt;27/9,3/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in Programming Languages: Concepts and Constructs by Ravi Sethi&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prolog: Logical Foundations&lt;/td&gt;
+&lt;td&gt;3/10,4/10,10/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ida.liu.se/~ulfni53/lpp/&#34;&gt;Chapter 1,2,3.1 in Logic, Programming and Prolog&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lists in Prolog&lt;/td&gt;
+&lt;td&gt;10/10,11/10,12/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in PLCC&lt;/a&gt;, &lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 3 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control in Prolog&lt;/td&gt;
+&lt;td&gt;12/10, 16/10, 17/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in PLCC&lt;/a&gt;, &lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 4 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Generate and Test&lt;/td&gt;
+&lt;td&gt;18/10, 19/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in PLCC&lt;/a&gt;, &lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 14.1 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Solving a Logic Puzzle&lt;/td&gt;
+&lt;td&gt;19/10, 25/10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cuts and Negation&lt;/td&gt;
+&lt;td&gt;25/10,26/10,31/10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227&#34;&gt;Chapter 11 in PLCC&lt;/a&gt;, &lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 11 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Type Inference and Program Synthesis using Prolog&lt;/td&gt;
+&lt;td&gt;31/10, 1/11&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mutable Data Structures and Difference Lists in Prolog&lt;/td&gt;
+&lt;td&gt;2/11, 7/11&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://mitpress.mit.edu/9780262691635/the-art-of-prolog/&#34;&gt;Chapter 15 in The Art of Prolog&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>/old-courses/pop-jul2023/references/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/old-courses/pop-jul2023/references/</guid>
+      <description>&lt;p&gt;The lecture slides (jupyter notebooks) will be shared after each lecture. These can be accessed at &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;this github page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some additional references:&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;Ocaml&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Functional Programming in OCaml&lt;/em&gt;, Cornell CS3100 textbook. Freely available &lt;a href=&#34;https://cs3110.github.io/textbook/cover.html&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Real World OCaml&lt;/em&gt; by Yaron Minsky, Anil Madhavapeddy and Jason Hickey. The book is freely available &lt;a href=&#34;https://dev.realworldocaml.org/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;OCaml Manual - available &lt;a href=&#34;https://v2.ocaml.org/manual/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;For practicing programming in OCaml - see &lt;a href=&#34;https://ocaml.org/problems&#34;&gt;99 Problems in OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lambda-calculus&#34;&gt;Lambda Calculus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Types and Programming Languages&lt;/em&gt; by Benjamin Pierce.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lecture notes on Lambda Calculus&lt;/em&gt; by Peter Seliner, available &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prolog&#34;&gt;Prolog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Programming Languages, Concepts and Constructs&lt;/em&gt;, 2nd edition, by Ravi Sethi. Chapter 11.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Art of Prolog&lt;/em&gt;, 2nd edition, by Leon Sterling and Ehud Y. Shapiro.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/old-courses/pop-jul2023/software/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/old-courses/pop-jul2023/software/</guid>
+      <description>&lt;p&gt;A docker image is setup for the course. It contains the necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks. Instructions for setting this up in your computers are available at this &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o23&#34;&gt;link&lt;/a&gt;. Please follow these instructions precisely. The docker image is also available &lt;a href=&#34;https://hub.docker.com/r/kartiknagar/cs3100_o23&#34;&gt;here&lt;/a&gt;. Please contact the instructor or TAs if you are facing any issues with this. The lectures and the assignment submission require this setup, and in fact assignment 0 is meant just for ensuring that you have set it up.&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;OCaml&lt;/h2&gt;
+&lt;p&gt;It is not necessary to install OCaml on your computers. You can run and experiment with OCaml programs through juypter notebooks or &lt;em&gt;utop&lt;/em&gt; on the Docker image. However, if you still want to install Ocaml, follow the instructions &lt;a href=&#34;https://ocaml.org/install&#34;&gt;here&lt;/a&gt;. It is recommended to also install &lt;em&gt;utop&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;swi-prolog&#34;&gt;SWI-Prolog&lt;/h2&gt;
+&lt;p&gt;Installation instructions are available &lt;a href=&#34;https://www.swi-prolog.org/Download.html&#34;&gt;here&lt;/a&gt;. Again, it is not necessary to install SWI-Prolog on your computers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

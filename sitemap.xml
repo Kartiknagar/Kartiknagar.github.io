@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/pop-jul2024/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/pop-jul2024/references/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/pop-jul2024/software/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/rtc-jul2023/schedule/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/courses/pop-jul2023/lectures/</loc>
+    <loc>/old-courses/pop-jul2023/lectures/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +38,17 @@
   </url>
   
   <url>
-    <loc>/courses/pop-jul2023/</loc>
+    <loc>/old-courses/pop-jul2023/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/pop-jul2023/references/</loc>
+    <loc>/old-courses/pop-jul2023/references/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/pop-jul2023/software/</loc>
+    <loc>/old-courses/pop-jul2023/software/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,7 +104,12 @@
   
   <url>
     <loc>/courses/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/old-courses/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -150,11 +170,6 @@
   <url>
     <loc>/authors/vimala-soundarapandian/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/old-courses/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>

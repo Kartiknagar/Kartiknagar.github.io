@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS3100 - Paradigms of Programming | Kartik Nagar</title>
+    <link>/courses/pop-jul2024/</link>
+      <atom:link href="/courses/pop-jul2024/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS3100 - Paradigms of Programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>CS3100 - Paradigms of Programming</title>
+      <link>/courses/pop-jul2024/</link>
+    </image>
+    
+    <item>
+      <title>References</title>
+      <link>/courses/pop-jul2024/references/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/courses/pop-jul2024/references/</guid>
+      <description>&lt;p&gt;The lecture slides (jupyter notebooks) will be shared before each lecture. These can be accessed at &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o24&#34;&gt;this github page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some additional references:&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;Ocaml&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Functional Programming in OCaml&lt;/em&gt;, Cornell CS3100 textbook. Freely available &lt;a href=&#34;https://cs3110.github.io/textbook/cover.html&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Real World OCaml&lt;/em&gt; by Yaron Minsky, Anil Madhavapeddy and Jason Hickey. The book is freely available &lt;a href=&#34;https://dev.realworldocaml.org/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;OCaml Manual - available &lt;a href=&#34;https://v2.ocaml.org/manual/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;For practicing programming in OCaml - see &lt;a href=&#34;https://ocaml.org/problems&#34;&gt;99 Problems in OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lambda-calculus&#34;&gt;Lambda Calculus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Types and Programming Languages&lt;/em&gt; by Benjamin Pierce.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lecture notes on Lambda Calculus&lt;/em&gt; by Peter Seliner, available &lt;a href=&#34;https://arxiv.org/abs/0804.3434&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prolog&#34;&gt;Prolog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Programming Languages, Concepts and Constructs&lt;/em&gt;, 2nd edition, by Ravi Sethi. Chapter 11.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Art of Prolog&lt;/em&gt;, 2nd edition, by Leon Sterling and Ehud Y. Shapiro.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/courses/pop-jul2024/software/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/courses/pop-jul2024/software/</guid>
+      <description>&lt;p&gt;A docker image is setup for the course. It contains the necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks. Instructions for setting this up in your computers are available at this &lt;a href=&#34;https://github.com/Kartiknagar/cs3100_o24&#34;&gt;link&lt;/a&gt;. Please follow these instructions precisely. The docker image is also available &lt;a href=&#34;https://hub.docker.com/r/kartiknagar/cs3100_o23&#34;&gt;here&lt;/a&gt;. Please contact the instructor or TAs if you are facing any issues with this. The lectures and the assignment submission require this setup, and in fact assignment 0 is meant just for ensuring that you have set it up.&lt;/p&gt;
+&lt;h2 id=&#34;ocaml&#34;&gt;OCaml&lt;/h2&gt;
+&lt;p&gt;It is not necessary to install OCaml on your computers. You can run and experiment with OCaml programs through juypter notebooks or &lt;em&gt;utop&lt;/em&gt; on the Docker image. However, if you still want to install Ocaml, follow the instructions &lt;a href=&#34;https://ocaml.org/install&#34;&gt;here&lt;/a&gt;. It is recommended to also install &lt;em&gt;utop&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;swi-prolog&#34;&gt;SWI-Prolog&lt;/h2&gt;
+&lt;p&gt;Installation instructions are available &lt;a href=&#34;https://www.swi-prolog.org/Download.html&#34;&gt;here&lt;/a&gt;. Again, it is not necessary to install SWI-Prolog on your computers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
