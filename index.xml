@@ -664,6 +664,14 @@
     </item>
     
     <item>
+      <title>Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models</title>
+      <link>/publication/oopsla24/</link>
+      <pubDate>Tue, 03 Sep 2024 19:13:24 +0530</pubDate>
+      <guid>/publication/oopsla24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automating Cutoff-based Verification of Distributed Protocols</title>
       <link>/publication/fmcad23/</link>
       <pubDate>Wed, 26 Jul 2023 18:25:16 +0530</pubDate>

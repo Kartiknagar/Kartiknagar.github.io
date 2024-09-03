@@ -5,12 +5,20 @@
     <link>/authors/suresh-jagannathan/</link>
       <atom:link href="/authors/suresh-jagannathan/index.xml" rel="self" type="application/rss+xml" />
     <description>Suresh Jagannathan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 19:13:24 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Suresh Jagannathan</title>
       <link>/authors/suresh-jagannathan/</link>
     </image>
+    
+    <item>
+      <title>Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models</title>
+      <link>/publication/oopsla24/</link>
+      <pubDate>Tue, 03 Sep 2024 19:13:24 +0530</pubDate>
+      <guid>/publication/oopsla24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Repairing Serializability Bugs in Distributed Database Programs via Automated Schema Refactoring</title>

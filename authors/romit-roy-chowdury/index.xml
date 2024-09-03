@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romit Roy Chowdury | Kartik Nagar</title>
+    <link>/authors/romit-roy-chowdury/</link>
+      <atom:link href="/authors/romit-roy-chowdury/index.xml" rel="self" type="application/rss+xml" />
+    <description>Romit Roy Chowdury</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 19:13:24 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Romit Roy Chowdury</title>
+      <link>/authors/romit-roy-chowdury/</link>
+    </image>
+    
+    <item>
+      <title>Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models</title>
+      <link>/publication/oopsla24/</link>
+      <pubDate>Tue, 03 Sep 2024 19:13:24 +0530</pubDate>
+      <guid>/publication/oopsla24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
