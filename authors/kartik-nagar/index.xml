@@ -5,12 +5,28 @@
     <link>/authors/kartik-nagar/</link>
       <atom:link href="/authors/kartik-nagar/index.xml" rel="self" type="application/rss+xml" />
     <description>Kartik Nagar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 19:13:24 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 19:01:13 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kartik Nagar</title>
       <link>/authors/kartik-nagar/</link>
     </image>
+    
+    <item>
+      <title>A Mechanically Verified Garbage Collector for OCaml</title>
+      <link>/publication/jar25/</link>
+      <pubDate>Fri, 28 Feb 2025 19:01:13 +0530</pubDate>
+      <guid>/publication/jar25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Verifying Replication-aware Linearizability</title>
+      <link>/publication/oopsla25/</link>
+      <pubDate>Fri, 28 Feb 2025 18:48:25 +0530</pubDate>
+      <guid>/publication/oopsla25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models</title>

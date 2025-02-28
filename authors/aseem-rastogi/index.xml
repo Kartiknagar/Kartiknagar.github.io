@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vimala Soundarapandian | Kartik Nagar</title>
-    <link>/authors/vimala-soundarapandian/</link>
-      <atom:link href="/authors/vimala-soundarapandian/index.xml" rel="self" type="application/rss+xml" />
-    <description>Vimala Soundarapandian</description>
+    <title>Aseem Rastogi | Kartik Nagar</title>
+    <link>/authors/aseem-rastogi/</link>
+      <atom:link href="/authors/aseem-rastogi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aseem Rastogi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 18:48:25 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Vimala Soundarapandian</title>
-      <link>/authors/vimala-soundarapandian/</link>
+      <title>Aseem Rastogi</title>
+      <link>/authors/aseem-rastogi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/oopsla25/</link>
       <pubDate>Fri, 28 Feb 2025 18:48:25 +0530</pubDate>
       <guid>/publication/oopsla25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Certified Mergeable Replicated Data Types</title>
-      <link>/publication/pldi22/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/pldi22/</guid>
       <description></description>
     </item>
     

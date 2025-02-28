@@ -664,6 +664,22 @@
     </item>
     
     <item>
+      <title>A Mechanically Verified Garbage Collector for OCaml</title>
+      <link>/publication/jar25/</link>
+      <pubDate>Fri, 28 Feb 2025 19:01:13 +0530</pubDate>
+      <guid>/publication/jar25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Verifying Replication-aware Linearizability</title>
+      <link>/publication/oopsla25/</link>
+      <pubDate>Fri, 28 Feb 2025 18:48:25 +0530</pubDate>
+      <guid>/publication/oopsla25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models</title>
       <link>/publication/oopsla24/</link>
       <pubDate>Tue, 03 Sep 2024 19:13:24 +0530</pubDate>
@@ -731,7 +747,7 @@
 &lt;li&gt;&lt;em&gt;Superoptimization of Smart Contracts on Ethereum Blockchain using ILP&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Jude Anil (2022-23)
+&lt;li&gt;Jude Anil (2022-23) (Next position: PhD student at Stevens Institute of Technology, USA)
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Exploring Concurrent Program Verification Through Iris&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;

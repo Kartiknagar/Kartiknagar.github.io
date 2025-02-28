@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheera Shamsu | Kartik Nagar</title>
+    <link>/authors/sheera-shamsu/</link>
+      <atom:link href="/authors/sheera-shamsu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheera Shamsu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 19:01:13 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sheera Shamsu</title>
+      <link>/authors/sheera-shamsu/</link>
+    </image>
+    
+    <item>
+      <title>A Mechanically Verified Garbage Collector for OCaml</title>
+      <link>/publication/jar25/</link>
+      <pubDate>Fri, 28 Feb 2025 19:01:13 +0530</pubDate>
+      <guid>/publication/jar25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
