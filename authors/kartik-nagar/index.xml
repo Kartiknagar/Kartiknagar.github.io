@@ -5,12 +5,20 @@
     <link>/authors/kartik-nagar/</link>
       <atom:link href="/authors/kartik-nagar/index.xml" rel="self" type="application/rss+xml" />
     <description>Kartik Nagar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 19:01:13 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jan 2026 14:24:05 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kartik Nagar</title>
       <link>/authors/kartik-nagar/</link>
     </image>
+    
+    <item>
+      <title>Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis</title>
+      <link>/publication/fse26/</link>
+      <pubDate>Sat, 10 Jan 2026 14:24:05 +0530</pubDate>
+      <guid>/publication/fse26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Mechanically Verified Garbage Collector for OCaml</title>

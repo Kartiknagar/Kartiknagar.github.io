@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divya Rathore | Kartik Nagar</title>
+    <link>/authors/divya-rathore/</link>
+      <atom:link href="/authors/divya-rathore/index.xml" rel="self" type="application/rss+xml" />
+    <description>Divya Rathore</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jan 2026 14:24:05 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Divya Rathore</title>
+      <link>/authors/divya-rathore/</link>
+    </image>
+    
+    <item>
+      <title>Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis</title>
+      <link>/publication/fse26/</link>
+      <pubDate>Sat, 10 Jan 2026 14:24:05 +0530</pubDate>
+      <guid>/publication/fse26/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

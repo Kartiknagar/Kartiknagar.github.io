@@ -664,6 +664,14 @@
     </item>
     
     <item>
+      <title>Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis</title>
+      <link>/publication/fse26/</link>
+      <pubDate>Sat, 10 Jan 2026 14:24:05 +0530</pubDate>
+      <guid>/publication/fse26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Mechanically Verified Garbage Collector for OCaml</title>
       <link>/publication/jar25/</link>
       <pubDate>Fri, 28 Feb 2025 19:01:13 +0530</pubDate>

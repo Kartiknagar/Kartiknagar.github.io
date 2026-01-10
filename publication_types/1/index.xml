@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 18:48:25 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jan 2026 14:24:05 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis</title>
+      <link>/publication/fse26/</link>
+      <pubDate>Sat, 10 Jan 2026 14:24:05 +0530</pubDate>
+      <guid>/publication/fse26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automatically Verifying Replication-aware Linearizability</title>
